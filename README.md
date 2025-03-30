@@ -72,8 +72,6 @@ Having a virtualized K8S cluster allows you to not only simulate a cloud environ
 Before proceeding, ensure you have the following:
 
 - **Proxmox VE**: A running Proxmox cluster.
-- **OpenTofu**: Installed on your control machine.
-- **Ansible**: Installed on your control machine.
 - **Access Credentials**: For Proxmox, and optionally Unifi and Minio.
 - **Unifi Controller** (optional): For managing networks and VLANs.
 - **Minio** (optional): For storing your tofu state.
